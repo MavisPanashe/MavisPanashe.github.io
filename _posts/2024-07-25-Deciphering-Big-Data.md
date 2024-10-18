@@ -15,8 +15,8 @@ This module covers techniques and tools for analyzing and interpreting large dat
 
 ## e-Portfolio
 ### Project 1: Collaborative Discussion Forum Summaries 
-<strong>Description:</strong> The Data Collection Process. In this discussion, I crtitically evaluated the rationale behine the Internet Of Things (IOT), in the context of the article by Huxley et al (2020), highlighting the opportunities, limitations, risks and challenges associated with such a large-scale process of data collection. Please review Initial and Summary post on the Collaborative Discussion Forum.
+<strong>Description:</strong> The Data Collection Process. In this discussion, I critically evaluated the rationale behind the Internet Of Things (IOT), in the context of the article by Huxley et al (2020), highlighting the opportunities, limitations, risks and challenges associated with such a large-scale process of data collection. Please review Initial and Summary post on the Collaborative Discussion Forum.
 
-<strong>Summary:</strong>
+<strong>Summary:</strong> Although I did not receive feedback from peers in this project discussion, reading insights from my peers' intial posts enabled me to improve my summary post. My peers had used real life case studies to improve their discussions so I did this as a form of feedback. I used to recent case study from Volvo Cars to further expand my summary. This project taught me to broaden my perspective on a large-scale process of data collection. An improvement that I would make is going into depth about this process in the chosen case study from Volvo Cars.
 
 ### Project 2: Mathematics Test
