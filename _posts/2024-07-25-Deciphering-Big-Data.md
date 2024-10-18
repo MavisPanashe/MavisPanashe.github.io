@@ -15,5 +15,5 @@ This module covers techniques and tools for analyzing and interpreting large dat
 
 ## e-Portfolio
 ### Project 1: Collaborative Discussion Forum Summaries 
-Description: The Data Collection Process. In this discussion, I crtitically evaluated the rationale behine the Internet Of Things (IOT), in the context of the article by Huxley et al (2020), highlighting the opportunities, limitations, risks and challenges associated with such a large-scale process of data collection. Please review Initial and Summary post on the Collaborative Discussion Forum.
+<strong>Description:</strong> The Data Collection Process. In this discussion, I crtitically evaluated the rationale behine the Internet Of Things (IOT), in the context of the article by Huxley et al (2020), highlighting the opportunities, limitations, risks and challenges associated with such a large-scale process of data collection. Please review Initial and Summary post on the Collaborative Discussion Forum.
 
