@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Deciphering Big Data
-subtitle: Each post also has a subtitle
+subtitle: e-Portfolio and Reflective Summary
 categories: 
 tags:
 ---
 
 
-## What the Module Consists Of
+## e-Portfolio
+### Collaborative Discussion Forum Summaries 
