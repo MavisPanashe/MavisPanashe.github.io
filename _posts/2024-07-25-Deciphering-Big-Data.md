@@ -19,7 +19,12 @@ This module covers techniques and tools for analyzing and interpreting large dat
 
 <strong>Summary:</strong> Although I did not receive feedback from peers in this project discussion, reading insights from my peers' intial posts enabled me to improve my summary post. My peers had used real life case studies to improve their discussions so I did this as a form of feedback. I used a recent case study from Volvo Cars to further expand my summary. This project taught me to broaden my perspective on a large-scale process of data collection. An improvement that I would make is going into depth about this process in the chosen case study from Volvo Cars. Overall, the skills gained were: communication, literacy, critical reflection and research.
 
-### Project 2: Development Team Project Report
+### Porject 2: Data Management Pipeline Test
+
+This test tested my knowledge of how data flows from source to analysis. I learned several key concepts and practical skills essential for preparing data for analysis.
+First, I gained a deep understanding of data quality, including the importance of accuracy, completeness, consistency, and reliability. This foundation helped me recognize the implications of poor data quality on analysis outcomes. I learned how to identify and handle missing values, exploring different types of missing data and various techniques for addressing them, such as imputation and deletion. Additionally, I became familiar with data types and structures, which allowed me to effectively identify the conversions and management of different data types. The skills gained were:
+
+### Project 3: Development Team Project Report
 Creating a team dynamic online can be a challenge but this document gives you the tools you need to make the most of any team project or development activity
 
 
