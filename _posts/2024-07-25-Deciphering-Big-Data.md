@@ -13,7 +13,7 @@ This module covers techniques and tools for analyzing and interpreting large dat
 3. Design, develop and evaluate solutions for processing datasets and solving complex problems in various environments using relevant programming paradigms.
 4. Systematically develop and implement the skills required to be effective member of a development team in a virtual professional environment, adopting real-life perspectives on team roles and organisation.
 
-## e-Portfolio
+## Artefacts
 ### Project 1: Collaborative Discussion Forum Summaries 
 <strong>Description:</strong> The Data Collection Process. In this discussion, I critically evaluated the rationale behind the Internet Of Things (IOT), in the context of the article by Huxley et al (2020), highlighting the opportunities, limitations, risks and challenges associated with such a large-scale process of data collection. Please review Initial and Summary post on the Collaborative Discussion Forum.
 
@@ -21,5 +21,9 @@ This module covers techniques and tools for analyzing and interpreting large dat
 
 ### Project 2: Development Team Project Report
 Creating a team dynamic online can be a challenge but this document gives you the tools you need to make the most of any team project or development activity
+
+
+## Reflections
+
 ## Meeting Minutes
 We initially followed the team contract procedure to establish skills between eachother in order to distribute tasks
