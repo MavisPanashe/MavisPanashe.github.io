@@ -27,3 +27,5 @@ Creating a team dynamic online can be a challenge but this document gives you th
 
 ## Meeting Minutes
 We initially followed the team contract procedure to establish skills between eachother in order to distribute tasks
+
+## Professional skills matrix and action plan
