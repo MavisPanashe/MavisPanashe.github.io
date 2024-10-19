@@ -21,8 +21,8 @@ This module covers techniques and tools for analyzing and interpreting large dat
 
 ### Porject 2: Data Management Pipeline Test
 
-This test tested my knowledge of how data flows from source to analysis. I learned several key concepts and practical skills essential for preparing data for analysis.
-First, I gained a deep understanding of data quality, including the importance of accuracy, completeness, consistency, and reliability. This foundation helped me recognize the implications of poor data quality on analysis outcomes. I learned how to identify and handle missing values, exploring different types of missing data and various techniques for addressing them, such as imputation and deletion. Additionally, I became familiar with data types and structures, which allowed me to effectively identify the conversions and management of different data types. The skills gained were:
+<strong>Description:</strong> This tested my knowledge of how data flows from source to analysis. I matched a Python concept/library with its purpose and I matched the Python practice with a description. I received a high grade.
+<strong>Summary:</strong> I learned several key concepts and practical skills essential for preparing data for analysis. First, I gained a deep understanding of data quality, including the importance of accuracy, completeness, consistency, and reliability. This foundation helped me recognize the implications of poor data quality on analysis outcomes. I learned how to identify and handle missing values, exploring different types of missing data and various techniques for addressing them, such as imputation and deletion. Additionally, I became familiar with data types and structures, which allowed me to effectively identify the conversions and management of different data types. The skills gained were: time management and numeracy.
 
 ### Project 3: Development Team Project Report
 Creating a team dynamic online can be a challenge but this document gives you the tools you need to make the most of any team project or development activity
