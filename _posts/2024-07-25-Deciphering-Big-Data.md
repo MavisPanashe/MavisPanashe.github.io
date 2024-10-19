@@ -34,21 +34,21 @@ Creating a team dynamic online can be a challenge but this document gives you th
 
 | Student Number| Course Name   | Exam Score    |
 |---------------|---------------|---------------|
-| 1001          | Computer Science| Row 2, Col 3  |
-| 1001          | Maths  | Row 2, Col 3  |
-| 1001          | Physics  | Row 1, Col 3  |
-| 1002          | Maths  | Row 2, Col 3  |
-| 1002          | Biology | Row 1, Col 3  |
-| 1002          | Music  | Row 2, Col 3  |
-| 1003          | Computer Science  | Row 1, Col 3  |
-| 1003          | Maths  | Row 2, Col 3  |
-| 1003          | Physics  | Row 1, Col 3  |
-| 1004          | Maths  | Row 2, Col 3  |
-| 1004          | Physics  | Row 1, Col 3  |
-| 1004          | Biology  | Row 2, Col 3  |
-| 1005          | Computer Science  | Row 1, Col 3  |
-| 1005          | Maths | Row 2, Col 3  |
-| 1005          | Music  | Row 2, Col 3  |
+| 1001          | Computer Science|  78  |
+| 1001          | Maths  | 78 |
+| 1001          | Physics  | 78  |
+| 1002          | Maths  | 55  |
+| 1002          | Biology | 55  |
+| 1002          | Music  | 55 |
+| 1003          | Computer Science  | 90  |
+| 1003          | Maths  | 90 |
+| 1003          | Physics  | 90 |
+| 1004          | Maths  | 70  |
+| 1004          | Physics  | 70 |
+| 1004          | Biology  | 70  |
+| 1005          | Computer Science  | 45 |
+| 1005          | Maths | 45  |
+| 1005          | Music  | 45  |
 ## Reflections
 
 ## Meeting Minutes
