@@ -32,23 +32,23 @@ Creating a team dynamic online can be a challenge but this document gives you th
 
 ### Project 4: Normalisation Task
 
-| Column 1      | Column 2      | Column 3      |
+| Student Number| Course Name   | Exam Score    |
 |---------------|---------------|---------------|
-| 1001          | Row 2, Col 2  | Row 2, Col 3  |
-| 1001          | Row 2, Col 2  | Row 2, Col 3  |
-| 1001          | Row 1, Col 2  | Row 1, Col 3  |
-| 1002          | Row 2, Col 2  | Row 2, Col 3  |
-| Row 1, Col 1  | Row 1, Col 2  | Row 1, Col 3  |
-| Row 2, Col 1  | Row 2, Col 2  | Row 2, Col 3  |
-| Row 1, Col 1  | Row 1, Col 2  | Row 1, Col 3  |
-| Row 2, Col 1  | Row 2, Col 2  | Row 2, Col 3  |
-| Row 1, Col 1  | Row 1, Col 2  | Row 1, Col 3  |
-| Row 2, Col 1  | Row 2, Col 2  | Row 2, Col 3  |
-| Row 1, Col 1  | Row 1, Col 2  | Row 1, Col 3  |
-| Row 2, Col 1  | Row 2, Col 2  | Row 2, Col 3  |
-| Row 1, Col 1  | Row 1, Col 2  | Row 1, Col 3  |
-| Row 2, Col 1  | Row 2, Col 2  | Row 2, Col 3  |
-| Row 2, Col 1  | Row 2, Col 2  | Row 2, Col 3  |
+| 1001          | Computer Science| Row 2, Col 3  |
+| 1001          | Maths  | Row 2, Col 3  |
+| 1001          | Physics  | Row 1, Col 3  |
+| 1002          | Maths  | Row 2, Col 3  |
+| 1002          | Biology | Row 1, Col 3  |
+| 1002          | Music  | Row 2, Col 3  |
+| 1003          | Computer Science  | Row 1, Col 3  |
+| 1003          | Maths  | Row 2, Col 3  |
+| 1003          | Physics  | Row 1, Col 3  |
+| 1004          | Maths  | Row 2, Col 3  |
+| 1004          | Physics  | Row 1, Col 3  |
+| 1004          | Biology  | Row 2, Col 3  |
+| 1005          | Computer Science  | Row 1, Col 3  |
+| 1005          | Maths | Row 2, Col 3  |
+| 1005          | Music  | Row 2, Col 3  |
 ## Reflections
 
 ## Meeting Minutes
