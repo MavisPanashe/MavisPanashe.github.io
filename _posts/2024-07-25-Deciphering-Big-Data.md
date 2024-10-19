@@ -49,6 +49,14 @@ Creating a team dynamic online can be a challenge but this document gives you th
 | 1005          | Computer Science  | 45 |
 | 1005          | Maths | 45  |
 | 1005          | Music  | 45  |
+
+| Course Name      | Exam Board      | Teacher Name      |
+|---------------|---------------|---------------|
+| Computer Science | BCS | Mr Jones |
+| Maths | EdExcel  | Ms Parker  |
+| Physics  | OCR | Mr Peters  |
+| Biology  | WJEC  | Ms Patel  |
+| Music | AQA  | Ms Daniels |
 ## Reflections
 
 ## Meeting Minutes
