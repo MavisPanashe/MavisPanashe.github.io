@@ -28,13 +28,13 @@ This module covers techniques and tools for analyzing and interpreting large dat
 
 ### Project 3: Development Team Project Report
 <strong>Description:</strong> 
-Creating a team dynamic online can be a challenge but this document gives you the tools you need to make the most of any team project or development activity
+Creating a team dynamic online can be a challenge but this document gives you the tools you need to make the most of any team project or development activity.
 
 ### Project 4: Normalisation Task
 
-<strong>Description:</strong> Normalising a table with un-normalised data to 3rd Normal Form (3NF)
+<strong>Description:</strong> Normalising a table with un-normalised data to 3rd Normal Form (3NF).
 
-<strong>Summary:</strong> To normalize the table to 3rd Normal Form (3NF), I began by ensuring the table was in First Normal Form (1NF) by verifying that each cell contained a single value and there were no duplicate rows. Next, for Second Normal Form (2NF), I removed partial dependencies by splitting the table into a "Students" table and a "Courses" table, separating the details related to students from the courses they were enrolled in. In Third Normal Form (3NF), I eliminated transitive dependencies by breaking down the "Courses" table further into two tables: one for student-course associations (Student Courses table) and another for course-specific information (Course Details table), like exam boards and teachers. By doing so, all non-key attributes now depend only on the primary key of their respective tables, completing the normalization to 3NF. Skills gained were: critical thinking and analysis, numeracy, problem solving
+<strong>Summary:</strong> To normalize the table to 3rd Normal Form (3NF), I began by ensuring the table was in First Normal Form (1NF) by verifying that each cell contained a single value and there were no duplicate rows. Next, for Second Normal Form (2NF), I removed partial dependencies by splitting the table into a "Students" table and a "Courses" table, separating the details related to students from the courses they were enrolled in. In Third Normal Form (3NF), I eliminated transitive dependencies by breaking down the "Courses" table further into two tables: one for student-course associations (Student Courses table) and another for course-specific information (Course Details table), like exam boards and teachers. By doing so, all non-key attributes now depend only on the primary key of their respective tables, completing the normalization to 3NF. Skills gained were: critical thinking and analysis, numeracy, problem solving.
 
 
 | Student Number| Course Name   | Exam Score    |
@@ -63,6 +63,7 @@ Creating a team dynamic online can be a challenge but this document gives you th
 | Biology  | WJEC  | Ms Patel  |
 | Music | AQA  | Ms Daniels |
 
+### Project 5: Individual Project: Executive Summary
 ## Reflections
 
 ## Meeting Minutes
