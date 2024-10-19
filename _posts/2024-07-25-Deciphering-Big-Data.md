@@ -32,6 +32,11 @@ Creating a team dynamic online can be a challenge but this document gives you th
 
 ### Project 4: Normalisation Task
 
+| Column 1      | Column 2      | Column 3      |
+|---------------|---------------|---------------|
+| Row 1, Col 1  | Row 1, Col 2  | Row 1, Col 3  |
+| Row 2, Col 1  | Row 2, Col 2  | Row 2, Col 3  |
+
 ## Reflections
 
 ## Meeting Minutes
