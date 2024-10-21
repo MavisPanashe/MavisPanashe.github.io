@@ -77,7 +77,10 @@ I was able to apply these lessons from the Unit 6 report to the Unit 11 executiv
 This knowledge broadened my perspective, helping me see database systems not only from a technical standpoint but also from a business perspective. Understanding that components of a database system evolve over time highlighted the importance of staying current with new policies and regulations. This is a valuable habit and skill that will serve me well as I pursue a career as a Data Scientist.
 
 ## Meeting Minutes
-We initially followed the team contract procedure to establish skills between eachother in order to distribute tasks
+1) We initially followed the team contract procedure to establish skills between eachother in order to distribute tasks
+2) We established our goal and collectively chose Transport for London as the organization we would be building a database system for. 
+3) We assembled deadlines on when each task would be completed so participation for meetings would be efficient in terms of evaluating outcomes.
+4) Meetings minutes and outcomes of all tasks were documented in the collaborative discussion forum on the student portal.
 
 ## Professional skills matrix and action plan
 
