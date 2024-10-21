@@ -82,6 +82,7 @@ We initially followed the team contract procedure to establish skills between ea
 ## Professional skills matrix and action plan
 
 Skills gained:
+
 Problem-Solving: Developed the ability to identify common data wrangling challenges such as missing data, inconsistencies, and formatting errors.
 
 Risk Management: Gained skills in recognizing and mitigating data security risks, especially concerning GDPR compliance and handling sensitive data.
@@ -93,6 +94,7 @@ Team Collaboration: Improved communication and collaboration skills by working e
 Data Transformation: Became skilled in techniques like imputation, normalization, and standardization to ensure data is prepared for analysis.
 
 Action Plan:
+
 I will continue to explore more advanced data wrangling techniques to enhance my ability to solve complex problems. I will actively seek out challenging datasets and case studies to apply these techniques in a practical setting.
 
 I will focus on improving my knowledge of big data tools and frameworks to handle and optimize larger datasets. I will also work on developing more advanced techniques to enhance efficiency when dealing with high-volume data.
