@@ -66,6 +66,16 @@ Creating a team dynamic online can be a challenge but this document gives you th
 ### Project 5: Individual Project: Executive Summary
 ## Reflections
 
+During our team project, tasks were distributed among the three of us based on our individual skills. My responsibilities included researching the organization’s background and database system requirements, organizing team meetings, and structuring the assignment in line with the learning outcomes. Initially, however, there was some overlap in task allocation. For example, the data management pipeline depended on the type of DBMS selected, and the latter stages of the pipeline were contingent on earlier steps. This created challenges in time management and communication, as some team members couldn’t begin their work until others had completed theirs.
+
+Bruce Tuckman’s “stages of group development” (Tuckman, 2010) helped me understand the importance of effective teamwork and communication in an organisational context. We focused on open communication, using regular meetings and digital collaboration tools to facilitate idea sharing and timely feedback regarding our team goals, roles, and responsibilities. Building trust and collaboration was also key; we fostered an environment where everyone felt comfortable raising concerns and offering suggestions, which improved problem-solving and innovation. Additionally, we implemented regular feedback loops to assess our progress and make necessary adjustments, continuously improving our process. Applying these principles significantly enhanced our team’s effectiveness and the quality of our final database system.
+
+While our group achieved a successful outcome, we could have improved further by sharing individual skills more openly. This would have encouraged more collaboration and input across tasks, leading to richer feedback and more cohesive work.
+
+I was able to apply these lessons from the Unit 6 report to the Unit 11 executive summary. In Unit 11, I developed and applied professional skills to become a more effective team member within a group of software developers. Through extensive research, I learned the importance of GDPR and data integrity in business contexts. GDPR emphasises protecting and ensuring the privacy of personal data, while integrity ensures its reliability and accuracy. Both are critical in database design for legal compliance, security, and operational efficiency.
+
+This knowledge broadened my perspective, helping me see database systems not only from a technical standpoint but also from a business perspective. Understanding that components of a database system evolve over time highlighted the importance of staying current with new policies and regulations. This is a valuable habit and skill that will serve me well as I pursue a career as a Data Scientist.
+
 ## Meeting Minutes
 We initially followed the team contract procedure to establish skills between eachother in order to distribute tasks
 
