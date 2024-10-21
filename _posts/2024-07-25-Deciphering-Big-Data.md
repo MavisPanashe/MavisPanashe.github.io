@@ -80,3 +80,22 @@ This knowledge broadened my perspective, helping me see database systems not onl
 We initially followed the team contract procedure to establish skills between eachother in order to distribute tasks
 
 ## Professional skills matrix and action plan
+
+Skills gained:
+Problem-Solving: Developed the ability to identify common data wrangling challenges such as missing data, inconsistencies, and formatting errors.
+
+Risk Management: Gained skills in recognizing and mitigating data security risks, especially concerning GDPR compliance and handling sensitive data.
+
+Performance Evaluation: Gained experience in testing and optimizing solutions for speed, scalability, and accuracy.
+
+Team Collaboration: Improved communication and collaboration skills by working effectively in a virtual team setting, using tools like UoE online portal, Whatsapp, and GitHub.
+
+Data Transformation: Became skilled in techniques like imputation, normalization, and standardization to ensure data is prepared for analysis.
+
+Action Plan:
+I will continue to explore more advanced data wrangling techniques to enhance my ability to solve complex problems. I will actively seek out challenging datasets and case studies to apply these techniques in a practical setting.
+
+I will focus on improving my knowledge of big data tools and frameworks to handle and optimize larger datasets. I will also work on developing more advanced techniques to enhance efficiency when dealing with high-volume data.
+
+I will deepen my understanding of data privacy laws, especially GDPR, and continue to improve my ability to recognize security vulnerabilities in datasets. I will regularly review industry best practices for data encryption, anonymization, and secure data storage. Additionally, I will seek further training or certification in data security and compliance.
+
